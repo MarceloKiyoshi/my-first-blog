@@ -1,2 +1,12 @@
 user: admin
 password: cesup9098
+
+
+PythonAnywhere
+
+user: admin
+password: cesup9098
+
+user: marcelokiyoshi
+password: cesup9098
+admin@admin.com
